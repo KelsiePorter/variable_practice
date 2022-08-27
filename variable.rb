@@ -4,3 +4,6 @@ dog_name2 = "Wicklow"
 age = 32
 age2 = 33
 age3 = 2
+cost = 25.50
+bill = 44.6
+tuition = 12000
