@@ -7,6 +7,10 @@ age3 = 2
 cost = 25.50
 bill = 44.6
 tuition = 12000
-dog = yes
+dog = true
 cat = false
 male = false
+name = "Kelsie"
+dog_name2 = "Buddy"
+puts name
+puts dog_name2
