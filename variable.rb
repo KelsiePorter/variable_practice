@@ -7,3 +7,6 @@ age3 = 2
 cost = 25.50
 bill = 44.6
 tuition = 12000
+dog = yes
+cat = false
+male = false
